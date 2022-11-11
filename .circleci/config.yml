@@ -13,6 +13,7 @@ jobs:
       - run:
           name: run build
           command: |
+            cd goldenticketnew
             chmod +x mvnw
             sed -i "s/\r$//" mvnw
             ./mvnw --version
