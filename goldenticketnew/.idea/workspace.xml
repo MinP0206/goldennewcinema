@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5a25f73-701d-4c8f-8b68-77c8e05fb8df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/goldenticketnew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/goldenticketnew.iml" afterDir="false" />
+    <list default="true" id="08d6a72b-e524-4c7e-b57b-2cd562b819b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/../.." value="fix/main" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -32,9 +27,6 @@
       </map>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -42,7 +34,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2HO5Hvd5viLbcYvc23YCztsJdAl" />
+  <component name="ProjectId" id="2HRUDkwXW4s46fEmkJhOAlsuV6A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,16 +42,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/minhphuong/Projects/GoldenTicketNew/Golden Ticket New Back-End",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "0ae1c936bf964782db218851f4676005"
+    "last_opened_file_path": "/home/minhphuong/Projects/TLCN/GoldenTicketNew/goldenticketnew",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager">
@@ -74,13 +61,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a5a25f73-701d-4c8f-8b68-77c8e05fb8df" name="Changes" comment="" />
-      <created>1668143204685</created>
+      <changelist id="08d6a72b-e524-4c7e-b57b-2cd562b819b3" name="Changes" comment="" />
+      <created>1668247272346</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668143204685</updated>
-      <workItem from="1668143205852" duration="126000" />
-      <workItem from="1668143405086" duration="1739000" />
+      <updated>1668247272346</updated>
+      <workItem from="1668247273502" duration="779000" />
     </task>
     <servers />
   </component>
